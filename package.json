@@ -1,0 +1,19 @@
+{
+  "name": "babel-plugin-extract-flow-definition",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "author": "James Lal <james@lightsofapollo.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "babel-helper-plugin-test-runner": "^6.24.1",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.24.1",
+    "babel-preset-flow": "^6.23.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "babel-register": "^6.24.1",
+    "mocha": "^3.3.0"
+  }
+}

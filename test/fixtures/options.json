@@ -1,0 +1,6 @@
+{
+  "plugins": [
+    "syntax-flow",
+    "extract-flow-definition"
+  ]
+}
